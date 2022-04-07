@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/saurabhkr99/portfolio-website/static/css/main.f1dfb855.chunk.css",
+    "main.js": "/saurabhkr99/portfolio-website/static/js/main.46f9c830.chunk.js",
+    "main.js.map": "/saurabhkr99/portfolio-website/static/js/main.46f9c830.chunk.js.map",
+    "runtime-main.js": "/saurabhkr99/portfolio-website/static/js/runtime-main.90328946.js",
+    "runtime-main.js.map": "/saurabhkr99/portfolio-website/static/js/runtime-main.90328946.js.map",
+    "static/css/2.d88a60dc.chunk.css": "/saurabhkr99/portfolio-website/static/css/2.d88a60dc.chunk.css",
+    "static/js/2.179a743a.chunk.js": "/saurabhkr99/portfolio-website/static/js/2.179a743a.chunk.js",
+    "static/js/2.179a743a.chunk.js.map": "/saurabhkr99/portfolio-website/static/js/2.179a743a.chunk.js.map",
+    "index.html": "/saurabhkr99/portfolio-website/index.html",
+    "precache-manifest.0d7b1ea3d08ec1fda4e8c13b715edede.js": "/saurabhkr99/portfolio-website/precache-manifest.0d7b1ea3d08ec1fda4e8c13b715edede.js",
+    "service-worker.js": "/saurabhkr99/portfolio-website/service-worker.js",
+    "static/css/2.d88a60dc.chunk.css.map": "/saurabhkr99/portfolio-website/static/css/2.d88a60dc.chunk.css.map",
+    "static/css/main.f1dfb855.chunk.css.map": "/saurabhkr99/portfolio-website/static/css/main.f1dfb855.chunk.css.map",
+    "static/js/2.179a743a.chunk.js.LICENSE.txt": "/saurabhkr99/portfolio-website/static/js/2.179a743a.chunk.js.LICENSE.txt",
+    "static/media/person1.jpg": "/saurabhkr99/portfolio-website/static/media/person1.07027ce1.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.90328946.js",
+    "static/css/2.d88a60dc.chunk.css",
+    "static/js/2.179a743a.chunk.js",
+    "static/css/main.f1dfb855.chunk.css",
+    "static/js/main.46f9c830.chunk.js"
+  ]
+}
